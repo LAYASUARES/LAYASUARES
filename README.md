@@ -1,9 +1,6 @@
 ### Olá! eu sou o Ladislau, Nickname: LAYASUARES
-
-
 - 🔭 I’m currently working with Front-End
 - 🌱 I’m currently learning React.js
-- 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: I like anime "DATTEBAYO"
 
 <div>
@@ -25,6 +22,12 @@
 <div>
         <a target="_blank" href="ladiswork@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email"></a>
         <a target="_blank" href="https://www.linkedin.com/in/ladislau-alexandre-1779781ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedin"></a>
+        
+![Snake animation](https://github.com/LAYASUARES/LAYASUARES/blob/output/github-contribution-grid-snake.svg)        
 </div>
+
+
+
+
 
 
