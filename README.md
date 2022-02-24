@@ -1,5 +1,5 @@
 ### Olá! eu sou o Ladislau, Nickname: LAYASUARES
-- 🔭 I’m currently working with Front-End
+- 🔭 I’m currently working as a FrontEnder
 - 🌱 I’m currently learning React.js
 - ⚡ Fun fact: I like anime "DATTEBAYO"
 
