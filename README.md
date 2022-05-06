@@ -1,5 +1,5 @@
 ### Hei yo! eu sou o Ladislau, Nickname: LAYASUARES
- 🔭 Working as a Front-End Developer, I’m currently learning React.js, I like anime "DATTEBAYO"
+ 🔭 Front-End Developer and UX enthusiast, I’m currently learning React.js, I like anime and I’m Addicted to self improvement like naruto before every talk-no-jutsu "DATTEBAYO"🦊
 
 <div>
         <a href="https://github.com/LAYASUARES"></a>
