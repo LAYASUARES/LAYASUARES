@@ -1,7 +1,5 @@
-### Olá! eu sou o Ladislau, Nickname: LAYASUARES
-- 🔭 I’m currently working as a FrontEnder
-- 🌱 I’m currently learning React.js
-- ⚡ Fun fact: I like anime "DATTEBAYO"
+### Hei yo! eu sou o Ladislau, Nickname: LAYASUARES
+ 🔭 Working as a Front-End Developer, I’m currently learning React.js, I like anime "DATTEBAYO"
 
 <div>
         <a href="https://github.com/LAYASUARES"></a>
@@ -9,7 +7,7 @@
         <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAYASUARES&layout=compact&langs_count=16&theme=dark">
 </div>
 
-<div style="display: inline-block;"> <br>
+<div style="display: flex;"> <br>
         <img align="center" alt="LAYA-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
         <img align="center" alt="LAYA-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
         <img align="center" alt="LAYA-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
