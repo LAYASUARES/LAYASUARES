@@ -1,4 +1,4 @@
-### Hei yo! eu sou o Ladislau, Nickname: LAYASUARES
+### Hei yo! Ladislau here, Nickname: LAYASUARES
  🔭 Front-End Developer and UX enthusiast, I’m currently learning React.js, I like anime and I’m Addicted to self improvement like naruto before every talk-no-jutsu "DATTEBAYO"🦊
 
 <div>
